@@ -8,26 +8,7 @@
 </p>
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/falphir/falphir/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/falphir/falphir/output/github-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/falphir/falphir/output/github-snake.svg"
-    />
-  </picture>
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,flutter,java,python,docker,mysql,postgres,git,linux,azure" />
-</p>
 
 <p align="center">
   <img
@@ -49,6 +30,22 @@
   />
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/falphir/falphir/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/falphir/falphir/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/falphir/falphir/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 
 
