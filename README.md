@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Costa</h1>
 <h4 align="center">A passionate fullstack developer from Portugal</h4>
 <br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,react,flutter,java,python,docker,mysql,postgres,git,linux,azure,figma,js,ts,dart,html,css,git,mongo,nodejs,express,php,postman,swift,docker,angular,firebase" />
 </p>
