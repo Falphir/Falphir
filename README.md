@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tiago Costa</h1>
-<hr>
 <h4 align="center">A passionate fullstack developer from Portugal</h4>
 <br>
 <h3 align="center">Languages and Tools:</h3>
