@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tiago Costa</h1>
 <h4 align="center">A passionate fullstack developer from Portugal</h4>
 <br>
+
+<p align="center">
+  <a href="https://falphir.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,react,flutter,java,python,docker,mysql,postgres,git,linux,azure,figma,js,ts,dart,html,css,git,mongo,nodejs,express,php,postman,swift,docker,angular,firebase" />
