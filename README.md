@@ -19,20 +19,8 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=falphir&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%"
     src="https://streak-stats.demolab.com?user=falphir&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=falphir&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
   />
 </p>
 
